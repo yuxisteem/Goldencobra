@@ -21,7 +21,7 @@ test/dummy/public/system/
 test/dummy/db
 test/dummy/db/*
 test/dummy/config/database.yml
-
+.powrc
 .DS_Store
 db/.DS_Store
 test/.DS_Store
