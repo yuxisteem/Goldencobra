@@ -55,7 +55,7 @@ zh-CN:
       updated: "你的密码已被成功更改，你现在已经登录。"
       updated_not_active: "你的密码已被成功更改。"      
     registrations:
-      updated: "Your account has been updated successfully."
+      updated: "你的帐户已被成功更新。"
       destroyed: "再见！你的帐户已被成功取消。希望能再次见到你。"
       signed_up: "欢迎！你已经成功注册。"
       signed_up_but_inactive: "你已经成功注册。但是由于你的帐户未激活，你仍无法登录。"
